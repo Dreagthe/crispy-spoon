@@ -1,0 +1,35 @@
+    Game Design
+
+    Define the core mechanics and gameplay loop
+    Determine the theme and setting of the game
+    Identify the key features and objectives of the game
+
+    Art Assets
+
+    Create art assets for characters, enemies, and objects in the game
+    Design backgrounds and tilesets for the game
+    Determine the color scheme and visual style of the game
+
+    Audio Assets
+
+    Create sound effects for actions in the game
+    Develop a soundtrack that fits the game's mood and tone
+
+    Gameplay Mechanics
+
+    Implement player movement and collision detection
+    Create enemy AI and behavior
+    Implement combat mechanics and damage calculation
+    Develop a leveling and progression system for the player
+
+    UI and Menus
+
+    Create the main menu and options screen
+    Develop the HUD for the game
+    Design the inventory and crafting systems
+
+    Levels and Procedural Generation
+
+    Develop the level design for the game's environments
+    Create a procedural generation system for random levels
+    Implement a system for saving and loading levels
